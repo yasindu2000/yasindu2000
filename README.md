@@ -15,7 +15,7 @@ I'm a **Software Engineering Undergraduate** at **NSBM Green University** and a 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Framer Motion
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
+- **Database:** MongoDB, Firebase, superbase
 - **Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ---
